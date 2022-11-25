@@ -1,0 +1,7 @@
+hi there this a new file to pull 
+from remote repository
+to local repository
+this command not only pull or fetch the file
+but also merge into local repository
+in working directory as well
+the name of remote repo and local repo should be the same
